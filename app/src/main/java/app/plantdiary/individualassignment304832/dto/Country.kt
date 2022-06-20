@@ -1,4 +1,7 @@
 package app.plantdiary.individualassignment304832.dto
+/**
+ * Data transfer object class for country object
+ */
 
 import com.google.gson.annotations.SerializedName
 
